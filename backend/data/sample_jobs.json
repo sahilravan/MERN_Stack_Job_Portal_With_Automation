@@ -1,1 +1,48 @@
 
+[{
+  "_id": {
+    "$oid": "67399ebd2268ac470ae1e92b"
+  },
+  "title": "Junior MERN Stack Developer",
+  "jobType": "Full-time",
+  "location": "Hyderabad",
+  "companyName": "Systems Limited",
+  "introduction": "this is the introduction of systems limited.",
+  "responsibilities": "Responsibility 1. Responsibility 2. Responsibility 3.",
+  "qualifications": "Qualifications 1. Qualifications 2. Qualifications 3.",
+  "salary": "148000",
+  "hiringMultipleCandidates": "No",
+  "jobNiche": "Web Development",
+  "newsLettersSent": true,
+  "postedBy": {
+    "$oid": "67389fdda73bc9386c9aff58"
+  },
+  "jobPostedOn": {
+    "$date": "2024-11-17T07:43:57.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a46e223c22aef5641dd11"
+  },
+  "title": "Database Engineer (Internship)",
+  "jobType": "Part-time",
+  "location": "Lahore",
+  "companyName": "ArbiSoft",
+  "introduction": "At ArbiSoft, we're looking for a passionate and dedicated Junior MERN Stack Developer to join our dynamic team. If have a knack for building web applications using MongoDB, Express, React, and Node.js, and are eager to grow in a collaborative environment, we'd love to hear from you!",
+  "responsibilities": "Assist in developing and maintaining web applications using the MERN stack. Collaborate with senior developers to design and implement new features. Troubleshoot and debug software issues ensure optimal performance. Write clean, scalable, and well-documented code. Participate in code reviews and contribute to team knowledge sharing. Assist in database design and optimization. Work with project managers to understand user requirements and deliver on time.",
+  "qualifications": "Bachelor's degree in Computer Science or a related field, or equivalent practical experience. Proficiency in JavaScript and familiarity with React, Node.js, Express, and MongoDB. Basic understanding of RESTful APIs and web services. Good problem-solving skills and attention to detail. Ability to work effectively both independently and as part of a team. Strong verbal and written communication skills. Eagerness to learn and adapt to new technologies and methodologies.",
+  "offers": "We provide a market-competitive salary package with regular performance reviews. Comprehensive health, dental, and vision insurance plans to keep you and your family healthy. Opportunities for career advancement and professional development through training and mentorship. We offer a flexible work schedule to promote a healthy work-life balance. A dynamic and supportive work culture with regular team-building activities and open communication. Paid time off and holidays to ensure you have time to relax and recharge.",
+  "salary": "35000 - 50000",
+  "hiringMultipleCandidates": "Yes",
+  "jobNiche": "Database Engineer",
+  "newsLettersSent": true,
+  "postedBy": {
+    "$oid": "67389fdda73bc9386c9aff58"
+  },
+  "jobPostedOn": {
+    "$date": "2024-11-17T19:41:22.026Z"
+  },
+  "__v": 0
+}]
