@@ -1,1 +1,195 @@
 
+[{
+  "_id": {
+    "$oid": "67389fdda73bc9386c9aff58"
+  },
+  "name": "Sahil Nilkanth Ravan",
+  "email": "sr@gmail.com",
+  "phone": 11223344,
+  "address": "Mumbai",
+  "password": "$2b$10$4gSoL7Tt0Hd7GIqOWIYhB.DuSTD6yw9IqSUbOjpy8rkIpyT5ZHT56",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-11-16T13:36:29.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738a0d7a73bc9386c9aff5f"
+  },
+  "name": "Sahil Nilkanth Ravan",
+  "email": "sr2@gmail.com",
+  "phone": 11223344,
+  "address": "Mumbai",
+  "niches": {
+    "firstNiche": "Backend Development",
+    "secondNiche": "Frontend Development",
+    "thirdNiche": "MERN STACK Development"
+  },
+  "password": "$2b$10$LSWFHDIgE8/yaNbwtDckC.LFjDPGt4HmyM2YKYXQV4GvrTrYXYXxS",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-11-16T13:40:39.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738a151a73bc9386c9aff64"
+  },
+  "name": "Sahil Nilkanth Ravan",
+  "email": "sr3@gmail.com",
+  "phone": 11223344,
+  "address": "Mumbai",
+  "niches": {
+    "firstNiche": "Backend Development",
+    "secondNiche": "Frontend Development",
+    "thirdNiche": "MERN STACK Development"
+  },
+  "password": "$2b$10$ysBeUFgPaO0pixfmtNTl2.maCsv6nlz9LOnf/Z2A70fNHrdEZb7Yu",
+  "resume": {
+    "public_id": "Job_Seekers_Resume/nddochh6tj5wzigqbkrd",
+    "url": "https://res.cloudinary.com/ducw1qlby/image/upload/v1731764549/Job_Seekers_Resume/nddochh6tj5wzigqbkrd.pdf"
+  },
+  "coverLetter": "Hi,\nCoverLetter",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-11-16T13:42:41.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738a3d4a73bc9386c9aff72"
+  },
+  "name": "Sahil Nilkanth Ravan",
+  "email": "sr4@gmail.com",
+  "phone": 11223344,
+  "address": "Mumbai",
+  "niches": {
+    "firstNiche": "Backend Development",
+    "secondNiche": "Frontend Development",
+    "thirdNiche": "MERN STACK Development"
+  },
+  "password": "$2b$10$msZjchLEfYfH0Jfd1mRvDepICdXT.lUuro1u/DliTPGLSANb3cBBi",
+  "resume": {
+    "public_id": "Job_Seekers_Resume/gwcmxryuvyuwgmhkwnx1",
+    "url": "https://res.cloudinary.com/ducw1qlby/image/upload/v1731765192/Job_Seekers_Resume/gwcmxryuvyuwgmhkwnx1.pdf"
+  },
+  "coverLetter": "Hi,\nCoverLetter",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-11-16T13:53:24.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738a68ca73bc9386c9aff83"
+  },
+  "name": "Sahil Nilkanth Ravan",
+  "email": "sr28@gmail.com",
+  "phone": 11223344,
+  "address": "Mumbai",
+  "niches": {
+    "firstNiche": "Backend Development",
+    "secondNiche": "Frontend Development",
+    "thirdNiche": "MERN STACK Development"
+  },
+  "password": "$2b$10$PsC6ZxNTUoyKrtqIOEzcQum2G/h.zYA6JdLhi4SH8CYFXVeJzoq9O",
+  "resume": {
+    "public_id": "Job_Seekers_Resume/iyffmndvurm9rgrptkci",
+    "url": "https://res.cloudinary.com/ducw1qlby/image/upload/v1731765887/Job_Seekers_Resume/iyffmndvurm9rgrptkci.pdf"
+  },
+  "coverLetter": "Hi,\nCoverLetter",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-11-16T14:05:00.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739969b2268ac470ae1e8f1"
+  },
+  "name": "Updated Name",
+  "email": "sr5updated@gmail.com",
+  "phone": 11223344,
+  "address": "Mumbai",
+  "niches": {
+    "firstNiche": "Backend Developer",
+    "secondNiche": "Java Developer",
+    "thirdNiche": "Flutter Developer"
+  },
+  "password": "$2b$10$4zJWG71EqaQ84MzvsTz0VehkcNc7grsN8AX0g8s/9klUdOB5Vx/SG",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-11-17T07:09:15.137Z"
+  },
+  "__v": 0,
+  "resume": {
+    "public_id": "Job_Seekers_Resume/m7enyaojamdj9yfiqf0t",
+    "url": "https://res.cloudinary.com/ducw1qlby/image/upload/v1731827780/Job_Seekers_Resume/m7enyaojamdj9yfiqf0t.pdf"
+  }
+},
+{
+  "_id": {
+    "$oid": "6739a6f42268ac470ae1e971"
+  },
+  "name": "Naruto",
+  "email": "naruto@gmail.com",
+  "phone": 11223344,
+  "address": "Tokyo",
+  "niches": {
+    "firstNiche": "Backend Development",
+    "secondNiche": "Frontend Development",
+    "thirdNiche": "MERN STACK Development"
+  },
+  "password": "$2b$10$2t9Mi2Y4Nf04GnQEQNYmDek1.qDC0jzbafOLa5t79WHKLl3qtvpJW",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-11-17T08:19:00.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739a71b2268ac470ae1e975"
+  },
+  "name": "Luffy",
+  "email": "luffy@gmail.com",
+  "phone": 11223344,
+  "address": "Tokyo",
+  "niches": {
+    "firstNiche": "Backend Development",
+    "secondNiche": "Frontend Development",
+    "thirdNiche": "MERN STACK Development"
+  },
+  "password": "$2b$10$LVLOgsxFcAtCQotI86Pbs.yW9iZMLcot1b8Zvid7L8Ji8nUEuOuPK",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-11-17T08:19:39.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a47b923c22aef5641dd19"
+  },
+  "name": "Sahil",
+  "email": "ravansahil80@gmail.com",
+  "phone": 11223344,
+  "address": "Tokyo",
+  "niches": {
+    "firstNiche": "Database Engineer",
+    "secondNiche": "Frontend Development",
+    "thirdNiche": "MERN STACK Development"
+  },
+  "password": "$2b$10$sBW09nzdBYm2Ywhg4HF3AOFQ430sO.0MQBTFCdZRUTMquoHJ7GAm6",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-11-17T19:44:57.060Z"
+  },
+  "__v": 0
+}]
