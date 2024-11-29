@@ -62,6 +62,12 @@ const jobSchema = new mongoose.Schema({
     ref: "User",
     required: true,
   },
+  vacancies: { 
+    type: Number, 
+    required: true }, // Add this field
+  applicants: { 
+    type: mongoose.Schema.Types.ObjectId, 
+    ref: 'User' }, // Track applicants
 });
 
 export const Job = mongoose.model("Job", jobSchema);
