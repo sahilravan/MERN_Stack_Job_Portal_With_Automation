@@ -23,6 +23,7 @@ const JobPost = () => {
   const [hiringMultipleCandidates, setHiringMultipleCandidates] = useState("");
   const [personalWebsiteTitle, setPersonalWebsiteTitle] = useState("");
   const [personalWebsiteUrl, setPersonalWebsiteUrl] = useState("");
+  const [vacancies, setVacancies] = useState(0);
 
   const nichesArray = [
     "Software Development",
@@ -92,6 +93,7 @@ const JobPost = () => {
       formData.append("personalWebsiteTitle", personalWebsiteTitle);
     personalWebsiteUrl &&
       formData.append("personalWebsiteUrl", personalWebsiteUrl);
+    formData.append("vacancies", vacancies);
 
     dispatch(postJob(formData));
   };
@@ -202,6 +204,15 @@ const JobPost = () => {
           value={salary}
           onChange={(e) => setSalary(e.target.value)}
           placeholder="50000 - 800000"
+        />
+      </div>
+      <div>
+        <label>Post Job</label>
+        <input
+        type="number"
+    placeholder="Number of Vacancies"
+    value={vacancies}
+    onChange={(e) => setVacancies(e.target.value)}
         />
       </div>
       <div>
